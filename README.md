@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Chatbot com Next, AI SDK, OpenAI e Shadcn/UI
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é um chatbot desenvolvido utilizando Next.js, AI SDK, OpenAI e Shadcn/UI. O objetivo foi criar um assistente virtual que pode responder a perguntas e auxiliar os usuários de maneira eficiente e amigável.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Next.js**: Framework React para desenvolvimento de aplicações web.
+- **AI SDK**: Kit de desenvolvimento de software para integrar funcionalidades de IA.
+- **OpenAI**: Plataforma de IA usada para gerar respostas inteligentes e naturais.
+- **Shadcn/UI**: Biblioteca de componentes de interface de usuário estilizados.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Configuração do Ambiente**: Inicialmente, configuração de um projeto Next.js e instalamos as dependências necessárias, incluindo o AI SDK, OpenAI e Shadcn/UI.
+2. **Integração com OpenAI**: Integração com a API do OpenAI para gerar respostas dinâmicas e inteligentes para o chatbot.
+3. **Desenvolvimento da Interface**: Criação da interface usando os componentes estilizados do Shadcn/UI.
+![image](https://github.com/elinatorresn/studies-lab-natty-or-not/assets/154446327/639ed181-566b-41e1-b1f3-483a7666f58b)
+4. **Testes e Refinamentos**: Testes para garantir que o chatbot funciona da maneira eficaz.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+- **Interatividade**: O chatbot consegue interagir com os usuários de maneira natural, respondendo a uma ampla variedade de perguntas.
+- **Interface Agradável**: A interface do usuário é intuitiva e esteticamente agradável, proporcionando uma boa experiência para os usuários.
+- **Desempenho**: O uso de Next.js garante um desempenho rápido e eficiente, melhorando a experiência geral do usuário.
